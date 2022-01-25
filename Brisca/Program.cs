@@ -63,7 +63,7 @@ namespace Brisca
             Jugador primero;
             Jugador segundo;
             Turno turno;
-
+            //hola jonmataaaaaaaan
 
             Menu(out jugador1, out jugador2);
                         

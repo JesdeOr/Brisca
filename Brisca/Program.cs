@@ -1,5 +1,5 @@
 ﻿using System;
-//Eres un paquete
+
 namespace Brisca
 {
     class Program
